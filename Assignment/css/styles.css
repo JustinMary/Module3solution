@@ -17,9 +17,11 @@ body {
  .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
-
+#heading{
+  margin-top: 100px;
+}
  #collapsable-nav ul li a{
- 	text-align: center;
+ 	
  	background-color: orange;
  	width: 100%;
  	border: 1px solid black;
@@ -27,7 +29,10 @@ body {
 
  #chickenText {
  	width: 90%;
- 	height: 1000px;
- 	background-color: orange;
- 	margin: 0 auto 0;
+ 	height: 900px;
+ 	 	margin: 0 auto 0;
  }
+  #chickenText p {
+   background-color: orange;
+ 
+  }
